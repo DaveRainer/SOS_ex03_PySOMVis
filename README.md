@@ -1,4 +1,4 @@
-# PySOMVis framework
+# PySOMVis framewor
 
 **PySOMVis framework** involves popular Self-Organizing Maps visualization techniques, which is inspired by Java based **SOMToolbox** (http://www.ifs.tuwien.ac.at/dm/somtoolbox/index.html)
 # Current visualizations 
